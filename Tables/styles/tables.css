@@ -1,0 +1,20 @@
+html {
+     background-color: seagreen;
+} 
+h1  {
+    color: orange;
+}
+.box{
+	width:100px;
+	height:100px;
+}
+ 
+.red{
+	background:#f00;
+}
+.green{
+	background:#0f0;
+}
+.blue{
+	background:#00f;
+}
