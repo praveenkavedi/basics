@@ -1,0 +1,4 @@
+**Project Walkthrough**,
+Step 1: open index.html page.
+Step 2: Click on the Mozilla Logo, Result: the image will get change.
+Step 3: Click on Change User button at the bottom of the page, Result : the Heading of the page will get changed with the user name you provided and it will store the name in the local storage of the browser (means it will not change even when you refresh the page but until when you change the name by clicking the change user button).  Please Try... 
